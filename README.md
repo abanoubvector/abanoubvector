@@ -61,9 +61,9 @@
 
 ### 🌟 Most Used Languages  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubvector&layout=compact&theme=radical&langs_count=4" alt="Top Languages">
-  <p>Languages Highlighted: Java, Python, C++, JavaScript</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubvector&layout=compact&theme=radical&hide=css,html&langs_count=4" alt="Top Languages">
 </div>
+
 
 ---
 
