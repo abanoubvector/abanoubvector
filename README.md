@@ -5,6 +5,7 @@
 
 <div align="center">
   <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile!" alt="Header Image" />
+  <img src="path-to-new-image.png" alt="New Picture" style="margin-top: 20px;" />
 </div>
 
 ---
